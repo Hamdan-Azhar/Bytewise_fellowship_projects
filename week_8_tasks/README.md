@@ -1,4 +1,4 @@
-# week_7_tasks
+# week_8_tasks
 
 An emoji app
 
